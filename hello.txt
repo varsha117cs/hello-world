@@ -1,1 +1,4 @@
 Hello Artifactory and Sonar
+hi jenkins
+hello git
+i am docker
